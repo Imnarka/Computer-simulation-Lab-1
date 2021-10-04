@@ -1,5 +1,1 @@
 # Computer-simulation-Lab-1
-
-
-
-#$$ a=b+c, $$
